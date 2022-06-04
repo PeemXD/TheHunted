@@ -6,6 +6,6 @@
 <b>Coder:</b><br>
 <ul>
   <li>Porramin Sithong (Nammon)</li>
-  <li>Peem Auppati (Peem)</li>
-  <li>Warathep Komwongsa (Me)</li>
+  <li>Peem Auppati (Me)</li>
+  <li>Warathep Komwongsa (Wave)</li>
 </ul>
